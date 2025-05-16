@@ -4,7 +4,7 @@ class CuentaBancaria
 	private String numCuenta;
 	private String nomTitular;
 	private double saldo;
-		
+	private double TipoIntereses;	
 	//Metodos
 	
 	public CuentaBancaria(String numCuenta,String nomTitular,double saldo)
